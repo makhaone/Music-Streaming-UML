@@ -210,6 +210,13 @@ User (کلاس پایه)
 <td>Aggregation</td>
 <td>playlist ها شامل مجموعه‌ای از آهنگ‌ها</td>
 </tr>
+<tr>
+<td><code>*:*</code></td>
+<td><code>Song</code></td>
+<td><code>Artist</code></td>
+<td>Association</td>
+<td>هر هنرمند ممکنه چند آهنگ داشته باشه و هر آهنگ ممکنه چند هنرمند داشته باشه</td>
+</tr>
 </table>
 
 ---
